@@ -92,7 +92,7 @@ public class RegisterWindow {
     }
 
     private boolean isConnectionAvailable() {
-
+        // Test
         boolean isAbleToConnect = false;
 
         try {
