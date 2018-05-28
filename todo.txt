@@ -1,0 +1,21 @@
+wenn karte selected und zug überspringen gedrück dann karte deselcetieren
+
+chef
+v chef
+middlemann
+v arsch
+arsch
+
+chef -> arsch 2 kartentypen   ass 10 
+vchef -> varsch 2kartentypen  ass 10
+middlemann -> +2 = 5 
+
+- klassen aufräumen + kommentieren !!!!!!!!!!!!!!!!!!!
+
+- nach dem game chef vchef choice panels anzeigen.
+- arsch varsch karten mit status bericht anzeigen.
+- middle man 7 auswahlmöglichekiten anzeigen lassen und entscheiden lasse.
+
+- server wartet bis alles fertig ist für die nächste runde.
+- verbindnugn zwischen chef - arsch vchef varsch.
+- spiel mit karten starten lassen.
