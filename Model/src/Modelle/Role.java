@@ -3,8 +3,9 @@ package Modelle;
 import java.util.stream.Stream;
 
 /**
- *
  * @author Philipp Schweizer
+ * @version v1
+ * @since 05.08.2017
  */
 public enum Role
 {

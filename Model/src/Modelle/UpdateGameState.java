@@ -9,8 +9,9 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- *
  * @author Philipp Schweizer
+ * @version v1
+ * @since 05.08.2017
  */
 public class UpdateGameState implements Serializable
 {

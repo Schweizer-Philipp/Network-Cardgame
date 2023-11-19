@@ -10,8 +10,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- *
  * @author Philipp Schweizer
+ * @version v1
+ * @since 05.08.2017
  */
 public class Hand implements Serializable
 {
